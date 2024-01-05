@@ -1,4 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=✨✨✨&fontAlign=70)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Redressed&size=40&pause=1000&color=586467&center=true&vCenter=true&random=false&width=435&lines=%C2%A1Hola%2C+bien+venidos!)](https://git.io/typing-svg)
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoo-lee&exclude_repo=mjoo-lee.github.io&layout=compact" />
+</a>
+
+
+<code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
+
 
 <!--
 **mjoo-lee/mjoo-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
